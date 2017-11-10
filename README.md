@@ -8,12 +8,10 @@ This program implements a Game Tree for Tic-Tac-Toc using the Minimax Algorithm.
 
 Input files format:
 
-X	/* whose turn is it */
+X	  /* whose turn is it */
 
 X - O	  /* the game configuration when the game tree construction begins */
-
 O X -
-
 - - -
 
 3. Run:
